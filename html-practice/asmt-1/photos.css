@@ -1,0 +1,23 @@
+
+
+p{
+font-family: 'Montserrat', sans-serif;
+margin-left: 1.66%;
+font-size: 23px;
+font-weight: 800;
+border-bottom: 2px solid #f1f1f1;
+width: 30%;
+padding-bottom: 20px;
+letter-spacing: .1em;
+}
+
+.img {
+    margin: 1.66%;
+    position: relative;
+    float: left;
+    width:  400px;
+    height: 400px;
+    background-position: 30%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
